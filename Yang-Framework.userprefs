@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yang-Framework\Defines\Data\Database\SQLField.cs">
+    <Files>
+      <File FileName="Yang-Framework\Defines\Data\Database\SQLField.cs" Line="11" Column="1" />
+      <File FileName="Yang-Framework\Defines\Data\Database\SQLFieldArray.cs" Line="8" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
