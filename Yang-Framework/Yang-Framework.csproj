@@ -46,6 +46,7 @@
     <Compile Include="Defines\Data\Database\SQLFieldArray.cs" />
     <Compile Include="Data\Database\DBI.cs" />
     <Compile Include="Defines\Data\Database\SQLResult.cs" />
+    <Compile Include="Net\FTP\FTPClient\FTPClient.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\Database\" />
@@ -56,6 +57,7 @@
     <Folder Include="Data\Database\MySQL\" />
     <Folder Include="Data\Database\MSSQL\" />
     <Folder Include="Data\Database\SQLite\" />
+    <Folder Include="Net\FTP\FTPClient\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
