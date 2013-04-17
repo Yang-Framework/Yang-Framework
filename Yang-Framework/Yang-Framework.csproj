@@ -45,6 +45,7 @@
     <Compile Include="Defines\Data\Database\SQLField.cs" />
     <Compile Include="Defines\Data\Database\SQLFieldArray.cs" />
     <Compile Include="Data\Database\DBI.cs" />
+    <Compile Include="Defines\Data\Database\SQLResult.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\Database\" />

@@ -2,9 +2,9 @@ using System;
 
 namespace Yang_Framework
 {
-	public interface DBI
+	public interface DBInterface
 	{
-		void connect();
-		void disconnect();
+		void Connect();
+		void Disconnect();
 	}
 }
