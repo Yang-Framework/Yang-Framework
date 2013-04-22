@@ -3,3 +3,4 @@ C:\Users\FrickX\documents\visual studio 2012\Projects\Yang-Framework\Yang-Framew
 C:\Users\FrickX\documents\visual studio 2012\Projects\Yang-Framework\Yang-Framework\obj\Debug\Yang-Framework.csprojResolveAssemblyReference.cache
 C:\Users\FrickX\documents\visual studio 2012\Projects\Yang-Framework\Yang-Framework\obj\Debug\Yang-Framework.dll
 C:\Users\FrickX\documents\visual studio 2012\Projects\Yang-Framework\Yang-Framework\obj\Debug\Yang-Framework.pdb
+C:\Users\FrickX\documents\visual studio 2012\Projects\Yang-Framework\Yang-Framework\bin\Debug\mysql.data.dll

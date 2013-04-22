@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="mysql.data">
+      <HintPath>deps\mysql.data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\Database\MySQL\MySQL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Defines\Data\Database\SQLField.cs" />
     <Compile Include="Defines\Data\Database\SQLFieldArray.cs" />
@@ -49,15 +53,8 @@
     <Compile Include="Net\FTP\FTPClient\FTPClient.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Data\Database\" />
-    <Folder Include="Net\FTP\" />
-    <Folder Include="Defines\" />
-    <Folder Include="Defines\Data\" />
-    <Folder Include="Defines\Data\Database\" />
-    <Folder Include="Data\Database\MySQL\" />
     <Folder Include="Data\Database\MSSQL\" />
     <Folder Include="Data\Database\SQLite\" />
-    <Folder Include="Net\FTP\FTPClient\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

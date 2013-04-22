@@ -6,5 +6,6 @@ namespace Yang_Framework.Defines.Data.Database
 	{
 		public int affected_rows { get; set; }
 		public int num_rows { get; set; }
+        public object result { get; set; }
 	}
 }
